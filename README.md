@@ -5,7 +5,6 @@
 💻 Software Engineer | Data Enthusiast | Builder
 
 About Me:
-  - Currently building AI-powered education tools @ TeachTrack AI
   - Interested in software engineering, data systems, and machine learning
   - Constantly learning backend architecture, cloud dev, and full-stack design
   - Passionate about creating tools that make learning smarter and more accessible
