@@ -3,7 +3,10 @@
 🎓 Computer Science Student @ Wilfrid Laurier University
 
 💻 Software Engineer | Data Enthusiast | Builder
-class RohanGottipati:
+
+About Me:
+
+    class RohanGottipati:
     def introduce(self):
         print("Constantly building, breaking, and rebuilding better.")
 
