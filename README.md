@@ -3,16 +3,15 @@
 🎓 Computer Science Student @ Wilfrid Laurier University
 
 💻 Software Engineer | Data Enthusiast | Builder
+class RohanGottipati:
+    def introduce(self):
+        print("Constantly building, breaking, and rebuilding better.")
 
-About Me:
-  - Interested in software engineering, data systems, and machine learning
-  - Constantly learning backend architecture, cloud dev, and full-stack design
-  - Passionate about creating tools that make learning smarter and more accessible
-  
-Tech Stack:
-  - Languages: Python · Java · C · C++ · C# · SQL · JavaScript · TypeScript · R
-  - Frameworks & Libraries: React · Flask · FastAPI · pandas · NumPy · Tailwind CSS
-  - Tools & Platforms: Git · AWS · Docker · Vercel · Figma · SQLite · MongoDB
+    def __init__(self):
+        self.languages = ["Python", "Java", "R", "C", "SQL", "HTML", "CSS", "JavaScript"]
+        self.frameworks = ["React", "Flask", "FastAPI", "pandas", "NumPy", "ggplot2", "Chart.js", "Tailwind CSS"]
+        self.databases = ["MySQL", "PostgreSQL", "SQLite", "Supabase"]
+        self.tools = ["Git", "Next.js", "Docker", "REST APIs", "Vite", "VS Code"]
   
 Connect With Me
   - [Email](rohan.gottipati@gmail.com)
