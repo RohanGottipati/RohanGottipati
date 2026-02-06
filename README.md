@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Rohan Gottipati
-
-🎓 Computer Science Student @ Wilfrid Laurier University
-
-💻 Software Engineer | Data Enthusiast | Builder
-
 About Me:
 
-    class RohanGottipati:
-    def introduce(self):
-        print("Constantly building, breaking, and rebuilding better.")
-
-    def __init__(self):
-        self.languages = ["Python", "Java", "R", "C", "SQL", "HTML", "CSS", "JavaScript"]
-        self.frameworks = ["React", "Flask", "FastAPI", "pandas", "NumPy", "ggplot2", "Chart.js", "Tailwind CSS"]
-        self.databases = ["MySQL", "PostgreSQL", "SQLite", "Supabase"]
-        self.tools = ["Git", "Next.js", "Docker", "REST APIs", "Vite", "VS Code"]
+    rohan = {
+        "name": "Rohan Gottipati",
+        "university": "Wilfrid Laurier University",
+        "major": "Computer Science, Big Data Concentration",
+        "focus": "AI/ML & Full Stack Development",
+        "passions": ["Software Integrations", "Data Pipelines", "Building MVPs"],
+        "tech_stack": {
+            "languages": ["Python", "JavaScript/TypeScript", "Java", "R", "C", "SQL", "HTML", "CSS"],
+            "frameworks": ["React", "Next.js", "Flask", "FastAPI", "Tailwind CSS", "pandas", "NumPy"],
+            "ml_tools": ["scikit-learn", "Matplotlib", "ggplot2", "Tidyverse", "Tidymodels"],
+            "tools": ["Git", "Docker", "AWS", "Vercel", "Vite", "Supabase", "MongoDB", "SQLite", "Power BI"],
+        },
+        "current_focus": "Backend systems, AI integration, and workflow optimization",
+        "learning": "Emotion-inspired AI Research, webhook processing, and scalable data pipelines",
+    }
   
 Connect With Me
   - [Email](rohan.gottipati@gmail.com)
