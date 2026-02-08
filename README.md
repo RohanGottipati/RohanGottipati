@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-brightgreen" />
-  <img src="https://img.shields.io/badge/University-Wilfrid%20Laurier%20University-success" />
-  <img src="https://img.shields.io/badge/Major-Computer%20Science%20(Big%20Data)-orange" />
-  <img src="https://komarev.com/ghpvc/?username=RohanGottipati&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/badge/Age-21-36BCF7" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-36BCF7" />
+  <img src="https://img.shields.io/badge/University-Wilfrid%20Laurier%20University-36BCF7" />
+  <img src="https://img.shields.io/badge/Major-Computer%20Science%20(Big%20Data)-36BCF7" />
 </div>
 
 <div align="center">
