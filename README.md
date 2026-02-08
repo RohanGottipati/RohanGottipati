@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-21-36BCF7" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-36BCF7" />
-  <img src="https://img.shields.io/badge/University-Wilfrid%20Laurier%20University-36BCF7" />
-  <img src="https://img.shields.io/badge/Major-Computer%20Science%20(Big%20Data)-36BCF7" />
+  <img src="https://img.shields.io/badge/Age-20-A855F7" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-A855F7" />
+  <img src="https://img.shields.io/badge/University-Wilfrid%20Laurier%20University-A855F7" />
+  <img src="https://img.shields.io/badge/Major-Computer%20Science%20(Big%20Data)-A855F7" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohan+Gottipati!" alt="Typing SVG" /></a>
