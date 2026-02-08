@@ -21,7 +21,7 @@ const rohan = {
   university: "Wilfrid Laurier University",
   major: "Computer Science, Big Data Concentration",
   focus: "AI/ML & Full Stack Development",
-  passions: ["Software Integrations", "Data Pipelines", "Building MVPs"],
+  passions: ["Software Integrations", "Big Data", "Building MVPs"],
   techStack: {
     languages: ["Python", "JavaScript/TypeScript", "Java", "R", "C", "SQL", "HTML", "CSS"],
     frameworks: ["React", "Next.js", "Flask", "FastAPI", "Tailwind CSS", "pandas", "NumPy"],
