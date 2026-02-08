@@ -15,8 +15,8 @@
 
 ## About Me
 
-```diff
-- rohan = {
+```python
+rohan = {
     "name": "Rohan Gottipati",
     "university": "Wilfrid Laurier University",
     "major": "Computer Science, Big Data Concentration",
