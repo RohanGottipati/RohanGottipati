@@ -1,4 +1,6 @@
-About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohan+Gottipati!)](https://git.io/typing-svg)
+
+## About Me
 
     rohan = {
         "name": "Rohan Gottipati",
