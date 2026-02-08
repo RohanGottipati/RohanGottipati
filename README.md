@@ -28,8 +28,8 @@ const rohan = {
     mlTools: ["scikit-learn", "Matplotlib", "ggplot2", "Tidyverse", "Tidymodels"],
     tools: ["Git", "Docker", "AWS", "Vercel", "Vite", "Supabase", "MongoDB", "SQLite", "Power BI"],
   },
-  currentFocus: "Backend systems, AI integration, and workflow optimization",
-  learning: "Emotion-inspired AI Research, webhook processing, and scalable data pipelines",
+  currentFocus: "Software Development, Backend systems, AI integration",
+  learning: "Emotion-inspired AI Research, Data Analysis, AI & Machine Learning",
 };
 ```
 
