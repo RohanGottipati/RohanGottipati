@@ -15,16 +15,22 @@
 
 ## About Me
 
-```python
-rohan = {
-    "name": "Rohan Gottipati",
-    "university": "Wilfrid Laurier University",
-    "major": "Computer Science, Big Data Concentration",
-    "focus": "AI/ML & Full Stack Development",
-    "passions": ["Software Integrations", "Data Pipelines", "Building MVPs"],
-    "current_focus": "Backend systems, AI integration, and workflow optimization",
-    "learning": "Emotion-inspired AI Research, webhook processing, and scalable data pipelines",
-}
+```typescript
+const rohan = {
+  name: "Rohan Gottipati",
+  university: "Wilfrid Laurier University",
+  major: "Computer Science, Big Data Concentration",
+  focus: "AI/ML & Full Stack Development",
+  passions: ["Software Integrations", "Data Pipelines", "Building MVPs"],
+  techStack: {
+    languages: ["Python", "JavaScript/TypeScript", "Java", "R", "C", "SQL", "HTML", "CSS"],
+    frameworks: ["React", "Next.js", "Flask", "FastAPI", "Tailwind CSS", "pandas", "NumPy"],
+    mlTools: ["scikit-learn", "Matplotlib", "ggplot2", "Tidyverse", "Tidymodels"],
+    tools: ["Git", "Docker", "AWS", "Vercel", "Vite", "Supabase", "MongoDB", "SQLite", "Power BI"],
+  },
+  currentFocus: "Backend systems, AI integration, and workflow optimization",
+  learning: "Emotion-inspired AI Research, webhook processing, and scalable data pipelines",
+};
 ```
 
 ### My Tech Stack
