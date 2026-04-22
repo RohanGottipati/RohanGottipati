@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="72" viewBox="0 0 680 72" role="img" aria-label="Typing animation showing Software Engineer locations">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="72" viewBox="0 0 720 72" role="img" aria-label="Typing animation showing Software Engineer locations">
   <style>
     .line {
-      fill: #7c3aed;
+      fill: #60a5fa;
       font-family: "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
-      font-size: 26px;
+      font-size: 25px;
       font-weight: 600;
     }
 
     .cursor {
-      fill: #7c3aed;
+      fill: #38bdf8;
       animation: blink 0.9s steps(1) infinite;
     }
 
@@ -20,51 +20,102 @@
 
   <defs>
     <clipPath id="clip-prefix">
-      <rect x="20" y="12" width="0" height="40">
+      <rect x="24" y="12" width="0" height="40">
         <animate
           attributeName="width"
-          dur="9s"
-          repeatCount="indefinite"
-          values="0;312;312;312;312;312;312;312;0"
-          keyTimes="0;0.244;0.411;0.489;0.622;0.767;0.844;0.978;1" />
+          id="prefixType"
+          from="0"
+          to="304"
+          dur="2.1s"
+          begin="0s"
+          fill="freeze" />
       </rect>
     </clipPath>
 
     <clipPath id="clip-waterloo">
-      <rect x="332" y="12" width="0" height="40">
+      <rect x="344" y="12" width="0" height="40">
         <animate
           attributeName="width"
-          dur="9s"
-          repeatCount="indefinite"
-          values="0;0;187;187;0;0;0;0;0"
-          keyTimes="0;0.244;0.411;0.489;0.622;0.767;0.844;0.978;1" />
+          id="waterlooType"
+          from="0"
+          to="202"
+          dur="1.6s"
+          begin="prefixType.end+0.2s;torontoDelete.end+0.4s"
+          fill="freeze" />
+        <animate
+          attributeName="width"
+          id="waterlooDelete"
+          from="202"
+          to="0"
+          dur="0.9s"
+          begin="waterlooType.end+0.9s"
+          fill="freeze" />
       </rect>
     </clipPath>
 
     <clipPath id="clip-toronto">
-      <rect x="332" y="12" width="0" height="40">
+      <rect x="344" y="12" width="0" height="40">
         <animate
           attributeName="width"
-          dur="9s"
-          repeatCount="indefinite"
-          values="0;0;0;0;0;171;171;0;0"
-          keyTimes="0;0.244;0.411;0.489;0.622;0.767;0.844;0.978;1" />
+          id="torontoType"
+          from="0"
+          to="184"
+          dur="1.4s"
+          begin="waterlooDelete.end+0.3s"
+          fill="freeze" />
+        <animate
+          attributeName="width"
+          id="torontoDelete"
+          from="184"
+          to="0"
+          dur="0.8s"
+          begin="torontoType.end+0.9s"
+          fill="freeze" />
       </rect>
     </clipPath>
   </defs>
 
   <rect width="100%" height="100%" fill="transparent" />
 
-  <text x="20" y="43" class="line" clip-path="url(#clip-prefix)">Software Engineer - </text>
-  <text x="332" y="43" class="line" clip-path="url(#clip-waterloo)">Waterloo, ON</text>
-  <text x="332" y="43" class="line" clip-path="url(#clip-toronto)">Toronto, ON</text>
+  <text x="24" y="43" class="line" textLength="304" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-prefix)">Software Engineer -</text>
+  <text x="344" y="43" class="line" textLength="202" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-waterloo)">Waterloo, ON</text>
+  <text x="344" y="43" class="line" textLength="184" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-toronto)">Toronto, ON</text>
 
-  <rect x="20" y="18" width="3" height="30" rx="1.5" class="cursor">
+  <rect x="24" y="17" width="3" height="30" rx="1.5" class="cursor">
     <animate
       attributeName="x"
-      dur="9s"
-      repeatCount="indefinite"
-      values="20;332;332;519;519;332;503;503;332;20"
-      keyTimes="0;0.244;0.322;0.411;0.489;0.622;0.767;0.844;0.978;1" />
+      from="24"
+      to="344"
+      dur="2.1s"
+      begin="0s"
+      fill="freeze" />
+    <animate
+      attributeName="x"
+      from="344"
+      to="546"
+      dur="1.6s"
+      begin="waterlooType.begin"
+      fill="freeze" />
+    <animate
+      attributeName="x"
+      from="546"
+      to="344"
+      dur="0.9s"
+      begin="waterlooDelete.begin"
+      fill="freeze" />
+    <animate
+      attributeName="x"
+      from="344"
+      to="528"
+      dur="1.4s"
+      begin="torontoType.begin"
+      fill="freeze" />
+    <animate
+      attributeName="x"
+      from="528"
+      to="344"
+      dur="0.8s"
+      begin="torontoDelete.begin"
+      fill="freeze" />
   </rect>
 </svg>
