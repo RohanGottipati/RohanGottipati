@@ -5,14 +5,6 @@
   <img src="https://img.shields.io/badge/Major-Computer%20Science%20(Big%20Data)-7C3AED" />
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohan+Gottipati!" alt="Typing SVG" /></a>
-</div>
-
-<br />
-
 ## About Me
 
 ```typescript
@@ -32,9 +24,15 @@ const rohan = {
 };
 ```
 
-### My Tech Stack
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-#### Languages
+**Languages**
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +46,7 @@ const rohan = {
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### Frameworks & Libraries
+**Frameworks & Libraries**
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -61,7 +59,7 @@ const rohan = {
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### Tools & Technologies
+**Tools & Technologies**
 
 <p align="center">
   <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge" />
@@ -73,16 +71,6 @@ const rohan = {
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ## Connect With Me
