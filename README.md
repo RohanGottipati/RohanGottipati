@@ -23,10 +23,9 @@ const rohan = {
   focus: "AI/ML & Full Stack Development",
   passions: ["Software Integrations", "Big Data", "Building MVPs"],
   techStack: {
-    languages: ["Python", "JavaScript/TypeScript", "Java", "R", "C", "SQL", "HTML", "CSS"],
-    frameworks: ["React", "Next.js", "Flask", "FastAPI", "Tailwind CSS", "pandas", "NumPy"],
-    mlTools: ["scikit-learn", "Matplotlib", "ggplot2", "Tidyverse", "Tidymodels"],
-    tools: ["Git", "Docker", "AWS", "Vercel", "Vite", "Supabase", "MongoDB", "SQLite", "Power BI"],
+    languages: ["Python", "Java", "R", "C", "SQL", "TypeScript", "JavaScript", "HTML", "CSS"],
+    frameworksAndLibraries: ["React", "Next.js", "FastAPI", "pandas", "NumPy", "scikit-learn", "ggplot2", "Tailwind CSS"],
+    toolsAndTechnologies: ["REST APIs", "Node.js", "PostgreSQL", "Firebase", "Supabase", "Gemini API", "Docker", "Git", "Vercel"],
   },
   currentFocus: "Software Development, Backend systems, AI integration",
   learning: "Emotion-inspired AI Research, Data Analysis, AI & Machine Learning",
@@ -35,138 +34,52 @@ const rohan = {
 
 ### My Tech Stack
 
-<!-- markdownlint-disable -->
+#### Languages
 
-<div class="tg-wrap" align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Languages</th>
-        <th>Frameworks & Libraries</th>
-        <th>ML/Data Tools</th>
-        <th>DevOps & Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <!-- Python -->
-          <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-          </a>
-          <!-- JavaScript -->
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-          </a>
-          <!-- TypeScript -->
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-          </a>
-          <!-- Java -->
-          <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-          </a>
-          <!-- R -->
-          <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" />
-          </a>
-          <!-- C -->
-          <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
-          </a>
-          <!-- HTML -->
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-          </a>
-          <!-- CSS -->
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-          </a>
-        </td>
-        <td>
-          <!-- React -->
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-          </a>
-          <!-- Next.js -->
-          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-          </a>
-          <!-- Flask -->
-          <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" />
-          </a>
-          <!-- FastAPI -->
-          <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" />
-          </a>
-          <!-- Tailwind -->
-          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-          </a>
-          <!-- Vite -->
-          <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://vitejs.dev/logo.svg" width="40" height="40" />
-          </a>
-        </td>
-        <td>
-          <!-- pandas -->
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
-          </a>
-          <!-- NumPy -->
-          <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" />
-          </a>
-          <!-- scikit-learn -->
-          <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" />
-          </a>
-          <!-- Matplotlib -->
-          <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
-          </a>
-          <!-- R/ggplot2/Tidyverse -->
-          <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/ggplot2.png" width="40" height="40" />
-          </a>
-        </td>
-        <td>
-          <!-- Git -->
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-          </a>
-          <!-- Docker -->
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-          </a>
-          <!-- AWS -->
-          <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-          </a>
-          <!-- Vercel -->
-          <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" />
-          </a>
-          <!-- Supabase -->
-          <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40" />
-          </a>
-          <!-- MongoDB -->
-          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-          </a>
-          <!-- SQLite -->
-          <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<!-- markdownlint-restore -->
+#### Frameworks & Libraries
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-4E79A7?style=for-the-badge" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+#### Tools & Technologies
+
+<p align="center">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## Connect With Me
 
