@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Hi! I'm Rohan Gottipati</h1>
+  <img alt="Typing animation for location" src="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/refs/heads/main/assets/location-typing.svg" />
+</div>
+
 ## About Me
 
 ```typescript
