@@ -32,8 +32,8 @@ const rohan = {
 ## All My Socials
 
 <p align="left">
-  <a target="_blank" href="mailto:rohan.gottipati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/rohangottipati/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;
-  <a target="_blank" href="https://devpost.com/rohan-gottipati"><img src="https://img.shields.io/badge/-Devpost-1F6FEB?style=for-the-badge&logo=devpost&logoColor=white"></a>&nbsp;
-  <a target="_blank" href="https://www.rohangottipati.com"><img src="https://img.shields.io/badge/-Portfolio%20Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a target="_blank" href="mailto:rohan.gottipati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-7C3AED?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/rohangottipati/"><img src="https://img.shields.io/badge/-LinkedIn-4F46E5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;
+  <a target="_blank" href="https://devpost.com/rohan-gottipati"><img src="https://img.shields.io/badge/-Devpost-2563EB?style=for-the-badge&logo=devpost&logoColor=white"></a>&nbsp;
+  <a target="_blank" href="https://www.rohangottipati.com"><img src="https://img.shields.io/badge/-Portfolio%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
