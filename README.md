@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.jpeg" alt="Rohan Gottipati banner" width="100%" />
+</p>
+
 ## About Me
 
 ```typescript
@@ -25,9 +29,11 @@ const rohan = {
   </picture>
 </p>
 
-## Connect With Me
+## All My Socials
 
 <p align="left">
   <a target="_blank" href="mailto:rohan.gottipati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/rohangottipati/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/rohangottipati/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;
+  <a target="_blank" href="https://devpost.com/rohan-gottipati"><img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"></a>&nbsp;
+  <a target="_blank" href="https://www.rohangottipati.com"><img src="https://img.shields.io/badge/-Portfolio%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
