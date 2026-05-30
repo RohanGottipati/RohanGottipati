@@ -2,6 +2,6 @@ cs @ Wilfrid Laurier University
 
 swe @ DOUBL · building production code, backend systems, and ai integrations
 
-i like building fast, useful products and turning ideas into working mvps.
+i like building fast, useful products and turning ideas into working mvps
 
-interests: ai/ml, software integrations, big data, and full stack development.
+interests: ai/ml, software integrations, big data, and full stack development
