@@ -1,9 +1,6 @@
-cs @ Wilfrid Laurier University
-
-incoming fall 2026 IT Technical Advisor @ Intact · software engineering & integrations 
-
-swe @ DOUBL · building production code, backend systems, and ai integrations
-
-i like building fast, useful products and turning ideas into working mvps
-
-interests: ai/ml, software integrations, big data, and full stack development
+<a href="https://github.com/RohanGottipati">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/main/dark_mode.svg">
+    <img alt="Rohan Gottipati's GitHub profile" src="https://raw.githubusercontent.com/RohanGottipati/RohanGottipati/main/light_mode.svg">
+  </picture>
+</a>

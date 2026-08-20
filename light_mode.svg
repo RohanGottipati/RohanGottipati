@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="610" viewBox="0 0 1280 610" font-family="Consolas, 'SFMono-Regular', Menlo, Monaco, monospace">
+  <style>
+    .fg { fill: #24292f; }
+    .key { fill: #9a6700; }
+    .val { fill: #0969da; }
+    .muted { fill: #8c959f; }
+    .add { fill: #1a7f37; }
+    .del { fill: #cf222e; }
+    .ascii { font-size: 13px; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect x="1" y="1" width="1278" height="608" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="15" y="30" fill="#57606a" class="ascii">
+    <tspan x="15" y="30">                 j@@@@@@@@*</tspan>
+    <tspan x="15" y="50">              @@@@@@@@@@@@@@@?</tspan>
+    <tspan x="15" y="70">             @@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="15" y="90">           j@@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="15" y="110">           @@@@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="15" y="130">           @@@@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="15" y="150">          l@@@@@@%@%@@@@@@M%@@@@j</tspan>
+    <tspan x="15" y="170">           @@@@M%?l;&#x27;`l!;,;j*@@@</tspan>
+    <tspan x="15" y="190">           @@M%;!%%M%l`.&#x27;!*%M%@@</tspan>
+    <tspan x="15" y="210">           M@@*j???%?j;&#x27;!?%***@</tspan>
+    <tspan x="15" y="230">          ;i!%?i*||*ii%?%*@*?j@?</tspan>
+    <tspan x="15" y="250">           ;,||;l.&#x27;``,*&#x27;%,;;;|Ml</tspan>
+    <tspan x="15" y="270">           ;!!|!;!|i|i`&#x27;il``!?*</tspan>
+    <tspan x="15" y="290">            `;|!,,|!;|il?i!|!l</tspan>
+    <tspan x="15" y="310">              i!;,|li|||iji!l*</tspan>
+    <tspan x="15" y="330">              li!;,,;!|||i|lj</tspan>
+    <tspan x="15" y="350">              |lj|!,``,;!!l??</tspan>
+    <tspan x="15" y="370">              j,|jjl!!!!|j*M</tspan>
+    <tspan x="15" y="390">             @j;`;ij??**??jM%</tspan>
+    <tspan x="15" y="410">           ?@@&#x27;!``,,,,!ilii;@%</tspan>
+    <tspan x="15" y="430">         @@%MM%  ,`,,;!!;!&#x27;;@M@@l.</tspan>
+    <tspan x="15" y="450">     ?*@MM%MMM@   &#x27;;,,,,,  ?M@MMM@@*</tspan>
+    <tspan x="15" y="470"> j?@@MMMM%%%MMM*    `;;    @MM@MMMMMM@*?</tspan>
+    <tspan x="15" y="490">MMMMMMMMMM%%MMM@.  ijjil  ,MMMMM@@MMMMMMM@</tspan>
+    <tspan x="15" y="510">MMMM%%MM%MMMM%MM%?@%?*MMM,MMMMMMMMMMM%MMMM</tspan>
+  </text>
+  <text x="400" y="42" font-size="15" class="fg">
+    <tspan x="400" y="42" font-weight="700">rohan@gottipati</tspan><tspan class="muted">  ─────────────────────────────────────────────────────</tspan>
+    <tspan x="400" y="70" class="muted">. </tspan><tspan class="key">OS</tspan><tspan class="muted">: .................. </tspan><tspan class="val">macOS</tspan>
+    <tspan x="400" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · CS (Big Data)</tspan>
+    <tspan x="400" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Software Engineer @ DOUBL</tspan>
+    <tspan x="400" y="148" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor @ Intact · SWE &amp; Integrations</tspan>
+    <tspan x="400" y="174" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
+    <tspan x="400" y="200" class="muted">. </tspan><tspan class="key">Programming</tspan><tspan class="muted">: ......... </tspan><tspan class="val">TypeScript, Python, JavaScript, Java, C++</tspan>
+    <tspan x="400" y="226" class="muted">. </tspan><tspan class="key">Stack</tspan><tspan class="muted">: ............... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Firebase, PostgreSQL</tspan>
+    <tspan x="400" y="252" class="muted">. </tspan><tspan class="key">Cloud / Infra</tspan><tspan class="muted">: ....... </tspan><tspan class="val">GCP, AWS, Docker, Kubernetes, CI/CD</tspan>
+    <tspan x="400" y="278" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ............... </tspan><tspan class="val">AI/ML, integrations, full-stack, data systems</tspan>
+    <tspan x="400" y="304" class="muted">. </tspan><tspan class="key">Hobbies</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Hackathons, badminton</tspan>
+    <tspan x="400" y="336" font-weight="700">Contact</tspan><tspan class="muted">  ───────────────────────────────────────────────────────────</tspan>
+    <tspan x="400" y="364" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: ............... </tspan><tspan class="val">rohan.gottipati@gmail.com</tspan>
+    <tspan x="400" y="390" class="muted">. </tspan><tspan class="key">Website</tspan><tspan class="muted">: ............. </tspan><tspan class="val">rohangottipati.com</tspan>
+    <tspan x="400" y="416" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: ............ </tspan><tspan class="val">linkedin.com/in/rohangottipati</tspan>
+    <tspan x="400" y="442" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: .............. </tspan><tspan class="val">github.com/RohanGottipati</tspan>
+    <tspan x="400" y="474" font-weight="700">GitHub Stats</tspan><tspan class="muted">  ──────────────────────────────────────────────────────</tspan>
+    <tspan x="400" y="502" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: </tspan><tspan class="val" id="repo_data">23</tspan><tspan class="muted">   |   </tspan><tspan class="key">Stars</tspan><tspan class="muted">: </tspan><tspan class="val" id="star_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Followers</tspan><tspan class="muted">: </tspan><tspan class="val" id="follower_data">8</tspan>
+    <tspan x="400" y="528" class="muted">. </tspan><tspan class="key">Commits</tspan><tspan class="muted">: </tspan><tspan class="val" id="commit_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Hackathons</tspan><tspan class="muted">: </tspan><tspan class="val">9</tspan><tspan class="muted">   |   </tspan><tspan class="key">Wins</tspan><tspan class="muted">: </tspan><tspan class="val">8</tspan>
+    <tspan x="400" y="554" class="muted">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="muted">: </tspan><tspan class="val" id="loc_data">--</tspan><tspan class="muted">  ( </tspan><tspan class="add" id="loc_add">--</tspan><tspan class="add">++</tspan><tspan class="muted">, </tspan><tspan class="del" id="loc_del">--</tspan><tspan class="del">--</tspan><tspan class="muted"> )</tspan>
+  </text>
+</svg>
