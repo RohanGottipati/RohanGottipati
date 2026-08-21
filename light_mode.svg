@@ -13,15 +13,14 @@
   <text x="40" y="42" font-size="15" class="fg">
     <tspan x="40" y="42" font-weight="700">rohan@gottipati</tspan><tspan class="muted">  ─────────────────────────────────────────────────────</tspan>
     <tspan x="40" y="70" class="muted">. </tspan><tspan class="key">OS</tspan><tspan class="muted">: .................. </tspan><tspan class="val">macOS</tspan>
-    <tspan x="40" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · BCS, Big Data (2028)</tspan>
-    <tspan x="40" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Software Engineer @ DOUBL</tspan>
-    <tspan x="40" y="148" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor @ Intact · SWE &amp; Integrations</tspan>
-    <tspan x="40" y="174" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
-    <tspan x="40" y="200" class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: ........... </tspan><tspan class="val">TypeScript, Python, JavaScript, SQL, Java, C++, C, R, HTML, CSS</tspan>
-    <tspan x="40" y="226" class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted">: .......... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Express, Three.js, WebSockets, Tailwind CSS</tspan>
-    <tspan x="40" y="252" class="muted">. </tspan><tspan class="key">Cloud / Data</tspan><tspan class="muted">: ........ </tspan><tspan class="val">GCP, AWS, PostgreSQL, Firebase, MongoDB Atlas, BigQuery, Supabase</tspan>
-    <tspan x="40" y="278" class="muted">. </tspan><tspan class="key">AI / Data</tspan><tspan class="muted">: ........... </tspan><tspan class="val">OpenAI API, Gemini API, pandas, NumPy, scikit-learn, statsmodels, ggplot2</tspan>
-    <tspan x="40" y="304" class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted">: ............... </tspan><tspan class="val">Git, Docker, GitHub Actions, Claude Code, Codex, Jira, Linear</tspan>
+    <tspan x="40" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · CS, Big Data (2028)</tspan>
+    <tspan x="40" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">IT Technical Advisor @ Intact · Software Engineering &amp; Integrations</tspan>
+    <tspan x="40" y="148" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
+    <tspan x="40" y="174" class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: ........... </tspan><tspan class="val">TypeScript, Python, JavaScript, SQL, Java, C++, C, R, HTML, CSS</tspan>
+    <tspan x="40" y="200" class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted">: .......... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Express, Three.js, WebSockets, Tailwind CSS</tspan>
+    <tspan x="40" y="226" class="muted">. </tspan><tspan class="key">Cloud / Data</tspan><tspan class="muted">: ........ </tspan><tspan class="val">GCP, AWS, PostgreSQL, Firebase, MongoDB Atlas, BigQuery, Supabase</tspan>
+    <tspan x="40" y="252" class="muted">. </tspan><tspan class="key">AI / Data</tspan><tspan class="muted">: ........... </tspan><tspan class="val">OpenAI API, Gemini API, pandas, NumPy, scikit-learn, statsmodels, ggplot2</tspan>
+    <tspan x="40" y="278" class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted">: ............... </tspan><tspan class="val">Git, Docker, GitHub Actions, Claude Code, Codex, Jira, Linear</tspan>
     <tspan x="40" y="336" font-weight="700">Contact</tspan><tspan class="muted">  ───────────────────────────────────────────────────────────</tspan>
     <tspan x="40" y="364" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: ............... </tspan><tspan class="val">rohan.gottipati@gmail.com</tspan>
     <tspan x="40" y="390" class="muted">. </tspan><tspan class="key">Website</tspan><tspan class="muted">: ............. </tspan><tspan class="val">rohangottipati.com</tspan>
