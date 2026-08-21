@@ -12,11 +12,11 @@
   <rect x="1" y="1" width="998" height="608" rx="18" fill="#f6f8fa" stroke="#d0d7de" />
   <text x="40" y="42" font-size="15" class="fg">
     <tspan x="40" y="42" font-weight="700">rohan@gottipati</tspan><tspan class="muted">  ─────────────────────────────────────────────────────</tspan>
-    <tspan x="40" y="70" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · BCS, Big Data (2028)</tspan>
-    <tspan x="40" y="96" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Junior Software Engineer Intern @ DOUBL · Full-Stack</tspan>
-    <tspan x="40" y="122" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor Intern @ Intact · SWE &amp; Integrations</tspan>
-    <tspan x="40" y="148" class="muted">. </tspan><tspan class="key">OneChart</tspan><tspan class="muted">: ............ </tspan><tspan class="val">Software Engineer Intern · AI Integrations &amp; Backend</tspan>
-    <tspan x="40" y="174" class="muted">. </tspan><tspan class="key">AvertoAI</tspan><tspan class="muted">: ............ </tspan><tspan class="val">Forward Deployed Engineer Intern</tspan>
+    <tspan x="40" y="70" class="muted">. </tspan><tspan class="key">OS</tspan><tspan class="muted">: .................. </tspan><tspan class="val">macOS</tspan>
+    <tspan x="40" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · BCS, Big Data (2028)</tspan>
+    <tspan x="40" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Software Engineer @ DOUBL</tspan>
+    <tspan x="40" y="148" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor @ Intact · SWE &amp; Integrations</tspan>
+    <tspan x="40" y="174" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
     <tspan x="40" y="200" class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: ........... </tspan><tspan class="val">TypeScript, Python, JavaScript, SQL, Java, C++, C, R, HTML, CSS</tspan>
     <tspan x="40" y="226" class="muted">. </tspan><tspan class="key">Frameworks</tspan><tspan class="muted">: .......... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Express, Three.js, WebSockets, Tailwind CSS</tspan>
     <tspan x="40" y="252" class="muted">. </tspan><tspan class="key">Cloud / Data</tspan><tspan class="muted">: ........ </tspan><tspan class="val">GCP, AWS, PostgreSQL, Firebase, MongoDB Atlas, BigQuery, Supabase</tspan>
@@ -29,7 +29,7 @@
     <tspan x="40" y="442" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: .............. </tspan><tspan class="val">github.com/RohanGottipati</tspan>
     <tspan x="40" y="474" font-weight="700">GitHub Stats</tspan><tspan class="muted">  ──────────────────────────────────────────────────────</tspan>
     <tspan x="40" y="502" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: </tspan><tspan class="val" id="repo_data">23</tspan><tspan class="muted">   |   </tspan><tspan class="key">Stars</tspan><tspan class="muted">: </tspan><tspan class="val" id="star_data">1</tspan><tspan class="muted">   |   </tspan><tspan class="key">Followers</tspan><tspan class="muted">: </tspan><tspan class="val" id="follower_data">8</tspan>
-    <tspan x="40" y="528" class="muted">. </tspan><tspan class="key">Commits</tspan><tspan class="muted">: </tspan><tspan class="val" id="commit_data">463</tspan><tspan class="muted">   |   </tspan><tspan class="key">Featured Projects</tspan><tspan class="muted">: </tspan><tspan class="val">4</tspan><tspan class="muted">   |   </tspan><tspan class="key">Awards</tspan><tspan class="muted">: </tspan><tspan class="val">5</tspan>
+    <tspan x="40" y="528" class="muted">. </tspan><tspan class="key">Commits</tspan><tspan class="muted">: </tspan><tspan class="val" id="commit_data">463</tspan><tspan class="muted">   |   </tspan><tspan class="key">Hackathons</tspan><tspan class="muted">: </tspan><tspan class="val">9</tspan><tspan class="muted">   |   </tspan><tspan class="key">Wins</tspan><tspan class="muted">: </tspan><tspan class="val">8</tspan>
     <tspan x="40" y="554" class="muted">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="muted">: </tspan><tspan class="val" id="loc_data">171,559</tspan><tspan class="muted">  ( </tspan><tspan class="add" id="loc_add">911,885</tspan><tspan class="add">++</tspan><tspan class="muted">, </tspan><tspan class="del" id="loc_del">740,326</tspan><tspan class="del">--</tspan><tspan class="muted"> )</tspan>
   </text>
 </svg>
