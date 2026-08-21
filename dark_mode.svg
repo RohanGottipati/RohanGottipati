@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="610" viewBox="0 0 1280 610" font-family="Consolas, 'SFMono-Regular', Menlo, Monaco, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="610" viewBox="0 0 1000 610" font-family="Consolas, 'SFMono-Regular', Menlo, Monaco, monospace">
   <style>
     .fg { fill: #e6edf3; }
     .key { fill: #f2cc60; }
@@ -7,88 +7,29 @@
     .muted { fill: #484f58; }
     .add { fill: #3fb950; }
     .del { fill: #f85149; }
-    .ascii { font-size: 5px; letter-spacing: 0; }
     text, tspan { white-space: pre; }
   </style>
-  <rect x="1" y="1" width="1278" height="608" rx="18" fill="#0d1117" stroke="#30363d"/>
-  <text x="12" y="28" fill="#c9d1d9" class="ascii" xml:space="preserve">
-    <tspan x="12" y="28">                                                                                                                        </tspan>
-    <tspan x="12" y="37.5">                                                                                                                        </tspan>
-    <tspan x="12" y="47">                                                                                                                        </tspan>
-    <tspan x="12" y="56.5">                                                   &amp;88888%%WM%B%%%88%8                                                  </tspan>
-    <tspan x="12" y="66">                                                 %B888BB%%%8M8MaMW&amp;W&amp;88M&amp;8                                              </tspan>
-    <tspan x="12" y="75.5">                                               8%%8&amp;8%B@$$&amp;WB%WW&amp;88BB8%$@@$8                                            </tspan>
-    <tspan x="12" y="85">                                             B88BB%%BMMBB@@BBB&amp;MM*W&amp;8%%8$$B$@8W                                         </tspan>
-    <tspan x="12" y="94.5">                                           &amp;%8%BBM8$$BM%%%%&amp;8%BW*#M%8&amp;8BWW&amp;B@$B8                                        </tspan>
-    <tspan x="12" y="104">                                          $@88@$8&amp;&amp;%B%&amp;8&amp;WW#W&amp;88W&amp;88B$8W8W**W##%B                                       </tspan>
-    <tspan x="12" y="113.5">                                          @@$B$&amp;WW8$%BB%8&amp;8MM%MWB88%M&amp;%8M#&amp;#M#&amp;W#                                       </tspan>
-    <tspan x="12" y="123">                                          @@$$@B8#B$@B%%B$BWM8B$@$B@BWM8B8*#M8%BB                                       </tspan>
-    <tspan x="12" y="132.5">                                          @@@@@88$@@@BB@@@8W&amp;&amp;BB@$$$$@@@@@%%M88$@                                       </tspan>
-    <tspan x="12" y="142">                                          @@@@@$B$@@@@$%B&amp;ak&amp;W&amp;8@@@$B@@8#8%MM&amp;&amp;&amp;%                                       </tspan>
-    <tspan x="12" y="151.5">                                          @@@@$$$@@8M&amp;88bkhk#&amp;W%8W8hh#wQOM#qob#8B                                       </tspan>
-    <tspan x="12" y="161">                                           $@$B8%%WpwkMhQw0qo8omXqqCapJm#Wkk0Ld&amp;                                        </tspan>
-    <tspan x="12" y="170.5">                                           B$$B&amp;#W*wJLmOQYf//xXYQqO0LvCw0UJYJ0wa                                        </tspan>
-    <tspan x="12" y="180">                                           8&amp;&amp;W*dkamUUUvn\(11}1\vzvxjttt|/tfuXQ                                         </tspan>
-    <tspan x="12" y="189.5">                                           MkbqCuY00mqOUzxj/([[]{{1)}[}{1)(|/rz                                         </tspan>
-    <tspan x="12" y="199">                                          *M0vnxxvYw*##*oookqYut{[}{]]})(/rvUQO                                         </tspan>
-    <tspan x="12" y="208.5">                                          WkznxxncCQJYcvnvL0mZQUu/(11(|fX0b#&amp;#                                          </tspan>
-    <tspan x="12" y="218">                                           kvxxnxxnnnvvnxxnvcvczcj|(/fxYOZOLXX                                          </tspan>
-    <tspan x="12" y="227.5">                                           wLCLYxJUCJ\(m*ahQw0LQv/1}|xYJXJ0Om                                           </tspan>
-    <tspan x="12" y="237">                                            LC0QmqXJ0UvYwp0tzOQXU0LJ0qqYZ0Oo                                            </tspan>
-    <tspan x="12" y="246.5">                                             ccxcJrfjxnxxuvYYzujuhXfnZaOLzX                                             </tspan>
-    <tspan x="12" y="256">                                             zvrxJ\())(|/tff/||/zw({(Xkvxnv                                             </tspan>
-    <tspan x="12" y="265.5">                                              uf\Yt({}}{1)/|{{)xOf){(npC/\                                              </tspan>
-    <tspan x="12" y="275">                                               j/tx|{]?][1|(1)rQu|(1|rJqn(                                              </tspan>
-    <tspan x="12" y="284.5">                                               uj|(fxftfjnuucxxr/1[{1|uXJ                                               </tspan>
-    <tspan x="12" y="294">                                                njt|(\uUUcuxnjtnvf1)\xYUc                                               </tspan>
-    <tspan x="12" y="303.5">                                                cnjfjXznxxrxxcYYXUYJQppZ                                                </tspan>
-    <tspan x="12" y="313">                                                 vnjrncUUzvunuuxruzXXzcz                                                </tspan>
-    <tspan x="12" y="322.5">                                                ucznftvU0O0LLUzYYcucYYJCL                                               </tspan>
-    <tspan x="12" y="332">                                               YcuvcurrurxzUYXzxtjnnnncJZp                                              </tspan>
-    <tspan x="12" y="341.5">                                           (YOQCUzvccvrfjjrnuvvuxrrxncYJQQJYzX                                          </tspan>
-    <tspan x="12" y="351">                                      (((()(zJmOLJYcvcujjjfffjxvXUUUJJJJJYXULZmwdJ)                                     </tspan>
-    <tspan x="12" y="360.5">                                  ||||((((()vXXOqmQJXzcvrt/tt//tfjjxvuucczUQmmqbX)))))(                                 </tspan>
-    <tspan x="12" y="370">                              \\\|||||((())1xXnvCqpw0JYYcxfttffffjjrnnnvvzJmqdkn{)))))((((|                             </tspan>
-    <tspan x="12" y="379.5">                          ///\/\|||||((()))1rYuxxcQqdpmOQXnxxrjfjnnjxvcXXCwbaap(1)))(((((|||||\                         </tspan>
-    <tspan x="12" y="389">                        ttt//\\\||||(((())1fnYuxrrnXLmqppqZQCUUJJYYYYJQ0mbaohbw({)))(((((||\\|\\\                       </tspan>
-    <tspan x="12" y="398.5">                      ttt////\\\||||((((((Qp(JvxftffxzJL0wpbbbbbbdpddbkkaaabqqOYX1))(((((|||||\\\\\                     </tspan>
-    <tspan x="12" y="408">                     tttt////\\|||||((()(m8z[tXujftttjnvcXUJQmqdbhaahakbkdqm0mnn8m)1((((||||||\\\\//                    </tspan>
-    <tspan x="12" y="417.5">                    ftttt/////\\||||())rp8Mj|_)nxjfttfjxnxxrjfjnucYC0ZmZ0QLCCv}xw@bx))(|||||\\\\\///                    </tspan>
-    <tspan x="12" y="427">                   ftttt//////\\||()(f0#88Wz1}~_|fft/tfjxxrxrt||\rcXUCCYXzzYn-\rQB$8qn()(|||\\\\/////                   </tspan>
-    <tspan x="12" y="436.5">                  fftttttt////\|((|cw#&amp;&amp;&amp;8Wk)]-~l+)tf//frxrxnxftnzXXUUzunuv\~}/t0%B%B%hLj\((|\\//////t                  </tspan>
-    <tspan x="12" y="446">                 ffttttttt/\||\rYmkMWM&amp;&amp;&amp;8&amp;WL]+iil:!}tftfxxxxnucXXcczcunnt-!?{(fb%BB%%BB&amp;*pLnt||\////t                  </tspan>
-    <tspan x="12" y="455.5">                ffffftt/\\/rXZa&amp;%WMMMMMWWWWM#f~!lII:":_|frjjjjxnuuuuunnf?;l+_[1u#8B%%%%%%BB$%*pCuf/\\/t                 </tspan>
-    <tspan x="12" y="465">                ffft/tfnYOkM%%&amp;8MMMMMWWWWWW#Wh1il;:,,"`^!)jxjjjjxxnunj[:,Il~_])wW8%BBBB%%%%%B%8B8#bOXxt                 </tspan>
-    <tspan x="12" y="474.5">               ftfrcLqaW&amp;8%8&amp;W8WMMMMMMMMMMM#WWw?iI:"^^^`'':[fnxrxnur};^,:;l~_[j#WWW%%%%%8%%88%&amp;&amp;8%%8%&amp;aw                </tspan>
-    <tspan x="12" y="484">               CZb#&amp;888&amp;&amp;888W8&amp;##MMMMMWWWMW&amp;#MWYiiI,"^^```''"_\xxr|I`^"",;!+-{Q&amp;WM&amp;88%%%%%%88%%W888&amp;W8%%                </tspan>
-    <tspan x="12" y="493.5">               &amp;8%8&amp;88&amp;W&amp;&amp;&amp;WM8M####MMMM##MW&amp;&amp;#MMf!l;"^^```'`,~]])-^'`^^":I!+[|oWM&amp;88WW88888888%8W8&amp;&amp;MW88                </tspan>
-    <tspan x="12" y="503">               888W&amp;&amp;&amp;MMW&amp;WMWM######MWMMM#MW&amp;&amp;MMh]II,"^`^;}fJnjvvrjf}i,":li-]Y&amp;MW&amp;&amp;&amp;M&amp;&amp;88888%%8%&amp;&amp;&amp;&amp;&amp;M8&amp;                </tspan>
-    <tspan x="12" y="512.5">               &amp;&amp;MW&amp;WW#WWW#MWMWMMMMMM##WWM#MW&amp;&amp;M#Ql;,"I[rLmUUcJCXvzwwQX/_!~?)hMM&amp;&amp;&amp;MW&amp;&amp;WM&amp;&amp;&amp;W&amp;&amp;&amp;8W&amp;&amp;%WW&amp;                </tspan>
-    <tspan x="12" y="522">               &amp;WM&amp;WM##W8&amp;M#MWMMM#&amp;WWW#MMMM#M&amp;&amp;&amp;##rl[cdhqOUYUJvuJcXYLpaaLf}]zW#&amp;&amp;8WMWW&amp;MM&amp;&amp;WM&amp;&amp;&amp;WM&amp;%%W#W                </tspan>
-    <tspan x="12" y="531.5">               WM#WMM#MW&amp;8WM*#MMM##MMMM#MMMW##&amp;8&amp;MhXzuYhMbQXvcvzLpmp*apc{}-ta#M88&amp;M&amp;WWWMWWWMW&amp;&amp;&amp;WW8B8&amp;MM                </tspan>
-    <tspan x="12" y="541">               WMW&amp;WW#&amp;&amp;&amp;&amp;88WMMWWWMMW&amp;88WW&amp;&amp;&amp;WM8%8Wq}?]|JbbZUYvJpodabQti_+]LWW8%%W888&amp;M&amp;&amp;M**#W8WW8%8W&amp;W#M               </tspan>
-    <tspan x="12" y="550.5">               kppqqqwpppqmwZO0OOOZ0JCLLLJCCCJzXYYzX{I;;I(uj1}}((\/()_,:i:+{((||||||(}}}}[[][}[-???-???-~               </tspan>
-  </text>
-  <text x="400" y="42" font-size="15" class="fg">
-    <tspan x="400" y="42" font-weight="700">rohan@gottipati</tspan><tspan class="muted">  ─────────────────────────────────────────────────────</tspan>
-    <tspan x="400" y="70" class="muted">. </tspan><tspan class="key">OS</tspan><tspan class="muted">: .................. </tspan><tspan class="val">macOS</tspan>
-    <tspan x="400" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · CS (Big Data)</tspan>
-    <tspan x="400" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Software Engineer @ DOUBL</tspan>
-    <tspan x="400" y="148" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor @ Intact · SWE &amp; Integrations</tspan>
-    <tspan x="400" y="174" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
-    <tspan x="400" y="200" class="muted">. </tspan><tspan class="key">Programming</tspan><tspan class="muted">: ......... </tspan><tspan class="val">TypeScript, Python, JavaScript, Java, C++</tspan>
-    <tspan x="400" y="226" class="muted">. </tspan><tspan class="key">Stack</tspan><tspan class="muted">: ............... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Firebase, PostgreSQL</tspan>
-    <tspan x="400" y="252" class="muted">. </tspan><tspan class="key">Cloud / Infra</tspan><tspan class="muted">: ....... </tspan><tspan class="val">GCP, AWS, Docker, Kubernetes, CI/CD</tspan>
-    <tspan x="400" y="278" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ............... </tspan><tspan class="val">AI/ML, integrations, full-stack, data systems</tspan>
-    <tspan x="400" y="304" class="muted">. </tspan><tspan class="key">Hobbies</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Hackathons, badminton</tspan>
-    <tspan x="400" y="336" font-weight="700">Contact</tspan><tspan class="muted">  ───────────────────────────────────────────────────────────</tspan>
-    <tspan x="400" y="364" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: ............... </tspan><tspan class="val">rohan.gottipati@gmail.com</tspan>
-    <tspan x="400" y="390" class="muted">. </tspan><tspan class="key">Website</tspan><tspan class="muted">: ............. </tspan><tspan class="val">rohangottipati.com</tspan>
-    <tspan x="400" y="416" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: ............ </tspan><tspan class="val">linkedin.com/in/rohangottipati</tspan>
-    <tspan x="400" y="442" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: .............. </tspan><tspan class="val">github.com/RohanGottipati</tspan>
-    <tspan x="400" y="474" font-weight="700">GitHub Stats</tspan><tspan class="muted">  ──────────────────────────────────────────────────────</tspan>
-    <tspan x="400" y="502" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: </tspan><tspan class="val" id="repo_data">23</tspan><tspan class="muted">   |   </tspan><tspan class="key">Stars</tspan><tspan class="muted">: </tspan><tspan class="val" id="star_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Followers</tspan><tspan class="muted">: </tspan><tspan class="val" id="follower_data">8</tspan>
-    <tspan x="400" y="528" class="muted">. </tspan><tspan class="key">Commits</tspan><tspan class="muted">: </tspan><tspan class="val" id="commit_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Hackathons</tspan><tspan class="muted">: </tspan><tspan class="val">9</tspan><tspan class="muted">   |   </tspan><tspan class="key">Wins</tspan><tspan class="muted">: </tspan><tspan class="val">8</tspan>
-    <tspan x="400" y="554" class="muted">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="muted">: </tspan><tspan class="val" id="loc_data">--</tspan><tspan class="muted">  ( </tspan><tspan class="add" id="loc_add">--</tspan><tspan class="add">++</tspan><tspan class="muted">, </tspan><tspan class="del" id="loc_del">--</tspan><tspan class="del">--</tspan><tspan class="muted"> )</tspan>
+  <rect x="1" y="1" width="998" height="608" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <text x="40" y="42" font-size="15" class="fg">
+    <tspan x="40" y="42" font-weight="700">rohan@gottipati</tspan><tspan class="muted">  ─────────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="70" class="muted">. </tspan><tspan class="key">OS</tspan><tspan class="muted">: .................. </tspan><tspan class="val">macOS</tspan>
+    <tspan x="40" y="96" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: ........... </tspan><tspan class="val">Wilfrid Laurier University · CS (Big Data)</tspan>
+    <tspan x="40" y="122" class="muted">. </tspan><tspan class="key">Current</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Software Engineer @ DOUBL</tspan>
+    <tspan x="40" y="148" class="muted">. </tspan><tspan class="key">Incoming</tspan><tspan class="muted">: ............ </tspan><tspan class="val">IT Technical Advisor @ Intact · SWE &amp; Integrations</tspan>
+    <tspan x="40" y="174" class="muted">. </tspan><tspan class="key">IDE</tspan><tspan class="muted">: ................. </tspan><tspan class="val">Cursor, VS Code</tspan>
+    <tspan x="40" y="200" class="muted">. </tspan><tspan class="key">Programming</tspan><tspan class="muted">: ......... </tspan><tspan class="val">TypeScript, Python, JavaScript, Java, C++</tspan>
+    <tspan x="40" y="226" class="muted">. </tspan><tspan class="key">Stack</tspan><tspan class="muted">: ............... </tspan><tspan class="val">Next.js, React, Node.js, FastAPI, Firebase, PostgreSQL</tspan>
+    <tspan x="40" y="252" class="muted">. </tspan><tspan class="key">Cloud / Infra</tspan><tspan class="muted">: ....... </tspan><tspan class="val">GCP, AWS, Docker, Kubernetes, CI/CD</tspan>
+    <tspan x="40" y="278" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ............... </tspan><tspan class="val">AI/ML, integrations, full-stack, data systems</tspan>
+    <tspan x="40" y="304" class="muted">. </tspan><tspan class="key">Hobbies</tspan><tspan class="muted">: ............. </tspan><tspan class="val">Hackathons, badminton</tspan>
+    <tspan x="40" y="336" font-weight="700">Contact</tspan><tspan class="muted">  ───────────────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="364" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: ............... </tspan><tspan class="val">rohan.gottipati@gmail.com</tspan>
+    <tspan x="40" y="390" class="muted">. </tspan><tspan class="key">Website</tspan><tspan class="muted">: ............. </tspan><tspan class="val">rohangottipati.com</tspan>
+    <tspan x="40" y="416" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: ............ </tspan><tspan class="val">linkedin.com/in/rohangottipati</tspan>
+    <tspan x="40" y="442" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: .............. </tspan><tspan class="val">github.com/RohanGottipati</tspan>
+    <tspan x="40" y="474" font-weight="700">GitHub Stats</tspan><tspan class="muted">  ──────────────────────────────────────────────────────</tspan>
+    <tspan x="40" y="502" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: </tspan><tspan class="val" id="repo_data">23</tspan><tspan class="muted">   |   </tspan><tspan class="key">Stars</tspan><tspan class="muted">: </tspan><tspan class="val" id="star_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Followers</tspan><tspan class="muted">: </tspan><tspan class="val" id="follower_data">8</tspan>
+    <tspan x="40" y="528" class="muted">. </tspan><tspan class="key">Commits</tspan><tspan class="muted">: </tspan><tspan class="val" id="commit_data">--</tspan><tspan class="muted">   |   </tspan><tspan class="key">Hackathons</tspan><tspan class="muted">: </tspan><tspan class="val">9</tspan><tspan class="muted">   |   </tspan><tspan class="key">Wins</tspan><tspan class="muted">: </tspan><tspan class="val">8</tspan>
+    <tspan x="40" y="554" class="muted">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="muted">: </tspan><tspan class="val" id="loc_data">--</tspan><tspan class="muted">  ( </tspan><tspan class="add" id="loc_add">--</tspan><tspan class="add">++</tspan><tspan class="muted">, </tspan><tspan class="del" id="loc_del">--</tspan><tspan class="del">--</tspan><tspan class="muted"> )</tspan>
   </text>
 </svg>

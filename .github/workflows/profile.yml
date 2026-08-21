@@ -2,8 +2,18 @@ name: Update profile stats
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile.yml"
+      - "update_profile.py"
   schedule:
     - cron: "17 5 * * *"
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -11,6 +21,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
