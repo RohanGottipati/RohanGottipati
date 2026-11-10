@@ -1,6 +1,6 @@
 cs @ Wilfrid Laurier University
 
-IT Technical Advisor @ Intact · Systems Integration, Platform Engineering & DevOps
+Software Engineering and Architecture @ Intact · Systems Integration, Platform Engineering & DevOps
 
 Research Engineer @ WLU · Agentic AI & LLM Systems under Dr. Fatahi
 
